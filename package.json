@@ -9,6 +9,12 @@
   "buddyPlugin": {
     "id": "example-plugin"
   },
+  "keywords": [
+    "buddy",
+    "plugin",
+    "example",
+    "buddy-plugin"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

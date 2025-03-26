@@ -1,0 +1,17 @@
+{
+  "name": "@coffic/buddy-example-plugin",
+  "version": "1.0.0",
+  "description": "Buddy示例插件",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "buddyPlugin": {
+    "id": "example-plugin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coffic",
+  "license": "MIT"
+}
